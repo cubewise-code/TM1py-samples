@@ -1,6 +1,6 @@
 """
 Instantiate TM1py with a custom session_context.
-Session_context is displayed in column "session" in Arc
+Session_context is displayed in column "context" in Arc
 """
 
 import configparser
